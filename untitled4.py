@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1xmAUYTE8m2k4Pcamyi0coiM6LepC4bhr
 """
 
-pip install streamlit pyngrok seaborn plotly
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
@@ -171,4 +171,3 @@ pip install streamlit pyngrok seaborn plotly
 # 
 # st.caption("Interactive dashboard created with Streamlit")
 
-streamlit run app.py
